@@ -8,9 +8,8 @@ This is done in 3 steps:
 And the output will be:
 A wonderful chat interface-
 
-![chatbox]()
-![chatbox2]()
+![chatbox](images/ss6.png)
 
 And here's optional information you wanna know:
 
-![optional]()
+![optional](images/ss7.png)
