@@ -6,9 +6,13 @@ This is done in 3 steps:
 3. Define main function
 
 And the output will be:
-A wonderful chat interface-
+A chat interface-
+
+![chatbox](images/s1.png)
 
 ![chatbox](images/ss6.png)
+
+![chatbox](images/s2.png)
 
 And here's optional information you wanna know:
 
