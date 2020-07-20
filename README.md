@@ -6,14 +6,15 @@ This is done in 3 steps:
 3. Define main function
 
 And the output will be:
-A chat interface-
-
-![chatbox](images/s1.png)
-
-![chatbox](images/ss6.png)
-
-![chatbox](images/s2.png)
+A chat interface
+<br><br>
+<img src="/images/s1.png" width="600" height="500"><br><br>
+<img src="/images/s2.png" width="600" height="500"><br><br>
+<img src="/images/ss6.png" width="600" height="500"><br><br>
 
 And here's optional information you wanna know:
+<br><br>
+<img src="/images/ss7.png" width="600" height="500"><br><br>
 
-![optional](images/ss7.png)
+
+
